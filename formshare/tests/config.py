@@ -22,7 +22,6 @@ server_config = {
     "auth.allow_user_change_password": "true",
     "auth.auto_accept_collaboration": "true",
     "perform_post_checks": "false",
-    "formshare.plugins": "enketo",
     "celery.broker": "amqp://formshare:formshare@localhost:5672/formshare",
     "celery.backend": "rpc://formshare:formshare@localhost:5672/formshare",
     "celery.taskname": "fstask",
