@@ -5,7 +5,7 @@ server_config = {
     "pyramid.debug_routematch": "false",
     "pyramid.default_locale_name": "en",
     "pyramid.includes": "\npyramid_debugtoolbar",
-    "sqlalchemy.url": "mysql+mysqlconnector://testing:testing@localhost/formshare?charset=utf8",
+    "sqlalchemy.url": "mysql+mysqlconnector://root:72EkBqCs!@localhost/formshare?charset=utf8",
     "auth.main.secret": "WA&Vr-hfK8NE\\#38G",
     "auth.main.cookie": "formshare_main_auth_tkt",
     "auth.assistant.secret": "WA&Vr-hfK8NE\\#38G",
